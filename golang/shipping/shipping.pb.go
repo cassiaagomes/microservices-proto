@@ -1,4 +1,4 @@
-package shipping_adapter
+package shipping
 
 import (
 	"context"

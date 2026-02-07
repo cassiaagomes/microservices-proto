@@ -6,7 +6,7 @@ option go_package = "github.com/cassiaagomes/microservices-proto/golang/shipping
 
 message ShippingItem {
   int64 product_code = 1;
-  int32 quantity = 2;
+  int32 quantity =ß 2;
 }
 
 message ShippingRequest {
